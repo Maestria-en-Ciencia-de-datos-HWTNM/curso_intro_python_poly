@@ -3,7 +3,7 @@
 <font size=4>
     
 ### Diplomado en Argumentación y Narrativa Soportada en Análisis de Datos. <br/>
-Politécnico Gran Colombiano - Septiembre-Octubre, 2024
+Politécnico Gran Colombiano - Septiembre, 2024
 
 Héctor Javier Hortúa
 </font>
